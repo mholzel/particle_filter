@@ -122,4 +122,4 @@ The code in this project was designed to be used with [this simulator](https://g
 4. `make`
 5. `./particle_filter`
 
-After Step 5, you can start `Project 3` from the simulator. If everything was successful, then after about 50 seconds, the simulator should display the following output:![success](images\success.jpg)
+After Step 5, you can start `Project 3` from the simulator. If everything was successful, then after about 50 seconds, the simulator should display the following output:![success](images/success.jpg)
