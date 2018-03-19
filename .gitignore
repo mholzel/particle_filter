@@ -1,0 +1,3 @@
+# Ignore everything in the build folder except the executable
+build
+!build/particle_filter
